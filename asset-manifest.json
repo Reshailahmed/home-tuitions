@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/home-tuitions/static/css/main.26e3e38c.css",
+    "main.js": "/home-tuitions/static/js/main.5ffce310.js",
+    "static/js/453.85c0e156.chunk.js": "/home-tuitions/static/js/453.85c0e156.chunk.js",
+    "index.html": "/home-tuitions/index.html",
+    "main.26e3e38c.css.map": "/home-tuitions/static/css/main.26e3e38c.css.map",
+    "main.5ffce310.js.map": "/home-tuitions/static/js/main.5ffce310.js.map",
+    "453.85c0e156.chunk.js.map": "/home-tuitions/static/js/453.85c0e156.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e3e38c.css",
+    "static/js/main.5ffce310.js"
+  ]
+}
